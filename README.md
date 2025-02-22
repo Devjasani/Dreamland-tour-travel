@@ -10,8 +10,8 @@
 - PHP
 - MySQL
 
-# Main Front-end Page: Home.php
+Main Front-end Page: Home.php
 
-# Admin Panel: admin.php
+Admin Panel: admin.php
 
-# Database Name: booking_db
+Database Name: booking_db
